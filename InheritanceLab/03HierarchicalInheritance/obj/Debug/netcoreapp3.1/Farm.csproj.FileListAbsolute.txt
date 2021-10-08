@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.exe
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceLab\03HierarchicalInheritance\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache

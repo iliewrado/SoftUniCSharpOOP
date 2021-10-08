@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

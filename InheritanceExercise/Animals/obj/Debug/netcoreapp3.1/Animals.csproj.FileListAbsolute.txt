@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Users\ray_m\source\CSharpOOP\InheritanceExercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
