@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.exe
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.deps.json
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.dll
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\bin\Debug\netcoreapp3.1\Validation.pdb
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.dll
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.pdb
+D:\Users\ray_m\source\CSharpOOP\EncapsulationLab\Validation\obj\Debug\netcoreapp3.1\Validation.genruntimeconfig.cache
