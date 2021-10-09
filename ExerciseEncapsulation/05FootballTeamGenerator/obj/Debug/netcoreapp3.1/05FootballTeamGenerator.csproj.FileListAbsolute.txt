@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.exe
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.deps.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.dll
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\bin\Debug\netcoreapp3.1\05FootballTeamGenerator.pdb
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.dll
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.pdb
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\05FootballTeamGenerator\obj\Debug\netcoreapp3.1\05FootballTeamGenerator.genruntimeconfig.cache

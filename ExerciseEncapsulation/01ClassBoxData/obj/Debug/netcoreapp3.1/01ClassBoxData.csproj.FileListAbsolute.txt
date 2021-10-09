@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.exe
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.deps.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.dll
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\bin\Debug\netcoreapp3.1\01ClassBoxData.pdb
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.dll
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.pdb
+D:\Users\ray_m\source\CSharpOOP\ExerciseEncapsulation\01ClassBoxData\obj\Debug\netcoreapp3.1\01ClassBoxData.genruntimeconfig.cache
