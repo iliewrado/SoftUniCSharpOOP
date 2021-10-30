@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\bin\Debug\netcoreapp3.1\04BorderControl.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\04BorderControl\obj\Debug\netcoreapp3.1\04BorderControl.genruntimeconfig.cache

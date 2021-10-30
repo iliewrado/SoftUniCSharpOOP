@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

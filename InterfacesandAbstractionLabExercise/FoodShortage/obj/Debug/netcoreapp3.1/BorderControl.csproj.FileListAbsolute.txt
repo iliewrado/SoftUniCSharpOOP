@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

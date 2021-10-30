@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\02LabCars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

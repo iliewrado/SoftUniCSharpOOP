@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\bin\Debug\netcoreapp3.1\06FoodShortage.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\BorderControl\obj\Debug\netcoreapp3.1\06FoodShortage.genruntimeconfig.cache

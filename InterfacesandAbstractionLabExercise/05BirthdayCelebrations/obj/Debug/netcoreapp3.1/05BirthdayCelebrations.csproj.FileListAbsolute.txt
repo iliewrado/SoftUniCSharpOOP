@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\bin\Debug\netcoreapp3.1\05BirthdayCelebrations.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\05BirthdayCelebrations\obj\Debug\netcoreapp3.1\05BirthdayCelebrations.genruntimeconfig.cache
