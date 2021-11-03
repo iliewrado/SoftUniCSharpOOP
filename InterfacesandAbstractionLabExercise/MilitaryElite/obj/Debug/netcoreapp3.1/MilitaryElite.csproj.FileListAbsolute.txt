@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

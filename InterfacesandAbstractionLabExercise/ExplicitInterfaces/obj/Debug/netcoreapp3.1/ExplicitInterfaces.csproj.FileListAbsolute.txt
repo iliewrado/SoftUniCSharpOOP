@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

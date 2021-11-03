@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+D:\Users\ray_m\source\CSharpOOP\InterfacesandAbstractionLabExercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache
