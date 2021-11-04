@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\Users\ray_m\source\CSharpOOP\PolymorphismLab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
