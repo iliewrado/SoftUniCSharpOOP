@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Users\ray_m\source\CSharpOOP\PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
