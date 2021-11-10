@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
