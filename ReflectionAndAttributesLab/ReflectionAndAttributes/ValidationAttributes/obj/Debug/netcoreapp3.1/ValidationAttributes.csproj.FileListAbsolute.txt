@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Users\ray_m\source\CSharpOOP\ReflectionAndAttributesLab\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
