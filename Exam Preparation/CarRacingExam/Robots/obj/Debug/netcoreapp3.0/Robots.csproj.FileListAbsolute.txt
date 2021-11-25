@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\CarRacingExam\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
