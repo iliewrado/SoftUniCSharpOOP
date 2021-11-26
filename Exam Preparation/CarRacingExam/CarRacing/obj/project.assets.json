@@ -8,23 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Owner\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\ray_m\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Content\\C# OOP Exam - 15 August 2021\\Skeleton\\CarRacing\\CarRacing.csproj",
+      "projectUniqueName": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\CarRacingExam\\CarRacing\\CarRacing.csproj",
       "projectName": "CarRacing",
-      "projectPath": "C:\\Users\\Owner\\Desktop\\Content\\C# OOP Exam - 15 August 2021\\Skeleton\\CarRacing\\CarRacing.csproj",
-      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Desktop\\Content\\C# OOP Exam - 15 August 2021\\Skeleton\\CarRacing\\obj\\",
+      "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\CarRacingExam\\CarRacing\\CarRacing.csproj",
+      "packagesPath": "C:\\Users\\ray_m\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\CarRacingExam\\CarRacing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ray_m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
