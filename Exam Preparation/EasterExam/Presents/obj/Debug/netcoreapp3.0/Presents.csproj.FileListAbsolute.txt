@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\New folder\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
