@@ -14,7 +14,7 @@ namespace SpaceStation.Models.Astronauts
         public double Oxygen
         {
             get { return oxygen; }
-            protected set
+            private set
             {
                 if (value < 0)
                 {
@@ -43,7 +43,7 @@ namespace SpaceStation.Models.Astronauts
 
         public bool CanBreath => this.Oxygen > 0;
 
-        public Astronaut(string name, double oxygen)
+        protected Astronaut(string name, double oxygen)
         {
             this.name = name;
             this.oxygen = oxygen;

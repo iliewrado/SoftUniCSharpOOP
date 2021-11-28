@@ -13,7 +13,7 @@ namespace SpaceStation.Models.Planets
         public string Name
         {
             get { return name; }
-            set 
+            private set 
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {

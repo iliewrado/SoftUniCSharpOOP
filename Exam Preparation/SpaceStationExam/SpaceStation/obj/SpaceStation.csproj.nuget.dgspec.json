@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj": {}
+    "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj": {}
   },
   "projects": {
-    "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj": {
+    "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj",
+        "projectUniqueName": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj",
         "projectName": "SpaceStation",
-        "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj",
+        "projectPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\SpaceStation.csproj",
         "packagesPath": "C:\\Users\\ray_m\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\obj\\",
+        "outputPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\SpaceStation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
