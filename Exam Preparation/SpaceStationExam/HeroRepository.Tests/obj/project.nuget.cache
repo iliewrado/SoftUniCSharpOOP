@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/IPxI4tdbsClSScqwX0pDwL/m2pxqllCCyX41/Uy0io7WQUNxNIaDAxvt+qyc4cRc1dhAwmkH5BxND0R+TsVA==",
+  "dgSpecHash": "w1sfD6TPZ80UkGgTqMuGrZAB6cN2VC9ZXoWIFFzsV8t7ou67Rf/ef45FHX007iVh25DHNhu/ykewLh8afcwn5A==",
   "success": true,
-  "projectFilePath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

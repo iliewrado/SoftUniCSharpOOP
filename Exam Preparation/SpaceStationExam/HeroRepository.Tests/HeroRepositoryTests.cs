@@ -8,6 +8,7 @@ public class HeroRepositoryTests
     private HeroRepository HeroRepository;
 
     [SetUp]
+    [Test]
     public void Setup()
     {
         HeroRepository = new HeroRepository();
@@ -25,6 +26,14 @@ public class HeroRepositoryTests
         hero = new Hero("Pesho", 10);
         HeroRepository.Create(hero);
         Assert.That(HeroRepository.Heroes.Count, Is.EqualTo(1));
+    }
+
+    [Test]
+    public void CreateMessageTest()
+    {
+        hero = new Hero("Pesho", 10);
+        string message = HeroRepository.Create(hero);
+        Assert.AreEqual(message, "Successfully added hero Pesho with level 10");
     }
 
     [Test]

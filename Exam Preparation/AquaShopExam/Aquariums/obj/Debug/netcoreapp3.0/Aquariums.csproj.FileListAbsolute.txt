@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\AquaShopExam\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

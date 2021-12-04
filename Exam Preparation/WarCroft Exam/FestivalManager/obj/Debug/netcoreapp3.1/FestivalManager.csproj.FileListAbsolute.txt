@@ -1,0 +1,27 @@
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.exe
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.deps.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\ROG STRIX\Desktop\C# OOP Unit Testing\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache

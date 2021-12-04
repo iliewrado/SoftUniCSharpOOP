@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj",
+      "projectUniqueName": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj",
       "projectName": "HeroRepository",
-      "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj",
+      "projectPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj",
       "packagesPath": "C:\\Users\\ray_m\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\obj\\",
+      "outputPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\HeroRepository.Tests.csproj": {}
+    "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\HeroRepository.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\HeroRepository.Tests.csproj": {
+    "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\HeroRepository.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
         "projectName": "HeroRepository.Tests",
-        "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
+        "projectPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\HeroRepository.Tests.csproj",
         "packagesPath": "C:\\Users\\ray_m\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository.Tests\\obj\\",
+        "outputPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj": {
-                "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj"
+              "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj": {
+                "projectPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj": {
+    "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj",
+        "projectUniqueName": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj",
         "projectName": "HeroRepository",
-        "projectPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\HeroRepository.csproj",
+        "projectPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\HeroRepository.csproj",
         "packagesPath": "C:\\Users\\ray_m\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Exam Preparation\\HeroRepository\\obj\\",
+        "outputPath": "C:\\Users\\ray_m\\Documents\\GitHub\\SoftUniCSharpOOP\\Exam Preparation\\SpaceStationExam\\HeroRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -12,7 +12,7 @@ namespace Easter.Models.Dyes
         public int Power
         {
             get { return power; }
-            protected set 
+            private set 
             {
                 if (value < 0)
                 {

@@ -13,7 +13,6 @@ namespace Easter.Models.Workshops
     {
         public void Color(IEgg egg, IBunny bunny)
         {
-
             while (!egg.IsDone() && bunny.Dyes.Count > 0 && bunny.Energy > 0)
             {
                 IDye dye = bunny.Dyes.First();

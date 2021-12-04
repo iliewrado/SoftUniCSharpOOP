@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\bin\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\WarCroft Exam\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
