@@ -30,6 +30,15 @@ namespace Tests
         }
 
         [Test]
+        public void VerifyWarriorCollection()
+        {
+            warriors = new List<Warrior>();
+            warriors.Add(new Warrior("Petar", 100, 100));
+            warriors.Add(new Warrior("George", 200, 200));
+            Assert.AreEqual(warriors, arena.Warriors);
+        }
+
+        [Test]
         public void CountTest()
         {
             Warrior pesho = new Warrior("Petar", 10, 10);

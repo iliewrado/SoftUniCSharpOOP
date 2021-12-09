@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\EasterRacesExam\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

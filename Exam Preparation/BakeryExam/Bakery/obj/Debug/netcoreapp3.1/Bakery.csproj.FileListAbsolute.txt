@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\Users\ray_m\source\CSharpOOP\Exam Preparation\BakeryExam\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
