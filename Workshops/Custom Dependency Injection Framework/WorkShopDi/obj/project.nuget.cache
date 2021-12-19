@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aq51h6nQebwo8DgrjH8FVs5jPkxJsRhcILyy4OknNOM0tejmWihV1VGMypgkY7y0/75hgFYd0iTs/STMmdZtYw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\CSharpOOP\\Workshops\\Custom Dependency Injection Framework\\WorkShopDi\\WorkShopDi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

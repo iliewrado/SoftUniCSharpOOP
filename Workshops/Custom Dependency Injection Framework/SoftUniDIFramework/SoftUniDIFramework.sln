@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniDIFramework", "SoftUniDIFramework\SoftUniDIFramework.csproj", "{2FF3D74C-FC8F-4461-9A9F-BF420BAA1235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkShopDi", "..\WorkShopDi\WorkShopDi.csproj", "{776E4E82-981B-4F16-BC64-5C08F66BDB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF3D74C-FC8F-4461-9A9F-BF420BAA1235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF3D74C-FC8F-4461-9A9F-BF420BAA1235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF3D74C-FC8F-4461-9A9F-BF420BAA1235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF3D74C-FC8F-4461-9A9F-BF420BAA1235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776E4E82-981B-4F16-BC64-5C08F66BDB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776E4E82-981B-4F16-BC64-5C08F66BDB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776E4E82-981B-4F16-BC64-5C08F66BDB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776E4E82-981B-4F16-BC64-5C08F66BDB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29ABA827-8E88-4D03-AAF6-3A54ECE21734}
+	EndGlobalSection
+EndGlobal
