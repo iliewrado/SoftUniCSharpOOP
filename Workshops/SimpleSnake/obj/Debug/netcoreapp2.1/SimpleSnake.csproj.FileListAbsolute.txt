@@ -11,3 +11,16 @@ D:\Users\ray_m\source\CSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\Si
 D:\Users\ray_m\source\CSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
 D:\Users\ray_m\source\CSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
 D:\Users\ray_m\source\CSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\Users\ray_m\source\GitHub\SoftUniCSharpOOP\Workshops\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
